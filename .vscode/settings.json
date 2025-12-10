@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.sendKeybindingsToShell": false,
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ],
+    "terminal.integrated.allowChords": true
+}
